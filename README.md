@@ -35,7 +35,7 @@ Cashless POS transaction count increased from **199.1M to 760.5M** between 2022 
 
 Because transaction count grew much faster than value, the implied average POS transaction fell from roughly **AZN 29.2 to AZN 16.7**.
 
-**Retail implication:** at market level, this is consistent with card payments moving further into frequent, lower-value purchases — particularly relevant to high-frequency retail such as grocery.
+**Retail implication:** at market level, this is consistent with card payments moving further into frequent, lower-value purchases (particularly relevant to high-frequency retail such as grocery).
 
 ### 3. Food-related spending remains the largest part of retail turnover
 
