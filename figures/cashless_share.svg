@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<rect width="900" height="470" fill="white"/>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#1f2937}.title{font-size:24px;font-weight:700}.sub{font-size:14px;fill:#6b7280}.axis{font-size:13px;fill:#6b7280}.val{font-size:14px;font-weight:700}.grid{stroke:#e5e7eb;stroke-width:1}.line{fill:none;stroke:#2563eb;stroke-width:4}.dot{fill:#2563eb}
+</style>
+<text x="55" y="45" class="title">Cashless payments became the majority of domestic card turnover</text>
+<text x="55" y="70" class="sub">Share of domestic payment-card turnover, Azerbaijan</text>
+<line x1="80" y1="365" x2="840" y2="365" class="grid"/><line x1="80" y1="295" x2="840" y2="295" class="grid"/><line x1="80" y1="225" x2="840" y2="225" class="grid"/><line x1="80" y1="155" x2="840" y2="155" class="grid"/><line x1="80" y1="85" x2="840" y2="85" class="grid"/>
+<text x="42" y="370" class="axis">40%</text><text x="42" y="300" class="axis">50%</text><text x="42" y="230" class="axis">60%</text><text x="42" y="160" class="axis">70%</text>
+<polyline points="110,343 345,256 580,196 815,172" class="line"/>
+<circle cx="110" cy="343" r="7" class="dot"/><circle cx="345" cy="256" r="7" class="dot"/><circle cx="580" cy="196" r="7" class="dot"/><circle cx="815" cy="172" r="7" class="dot"/>
+<text x="88" y="325" class="val">43.2%</text><text x="323" y="238" class="val">55.6%</text><text x="558" y="178" class="val">64.2%</text><text x="793" y="154" class="val">67.6%</text>
+<text x="95" y="400" class="axis">2022</text><text x="330" y="400" class="axis">2023</text><text x="565" y="400" class="axis">2024</text><text x="800" y="400" class="axis">2025</text>
+<text x="55" y="445" class="sub">Source: Central Bank of the Republic of Azerbaijan</text>
+</svg>
