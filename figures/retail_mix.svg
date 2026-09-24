@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="900" height="500" fill="white"/>
+<style>
+text{font-family:Arial,Helvetica,sans-serif;fill:#1f2937}.title{font-size:24px;font-weight:700}.sub{font-size:14px;fill:#6b7280}.axis{font-size:13px;fill:#6b7280}.val{font-size:14px;font-weight:700}.grid{stroke:#e5e7eb;stroke-width:1}.food{fill:#2563eb}.nonfood{fill:#f59e0b}
+</style>
+<text x="55" y="45" class="title">Food-related spending remains the largest part of retail turnover</text>
+<text x="55" y="70" class="sub">Annual retail turnover by broad category, AZN billion</text>
+<line x1="80" y1="390" x2="840" y2="390" class="grid"/><line x1="80" y1="315" x2="840" y2="315" class="grid"/><line x1="80" y1="240" x2="840" y2="240" class="grid"/><line x1="80" y1="165" x2="840" y2="165" class="grid"/><line x1="80" y1="90" x2="840" y2="90" class="grid"/>
+<text x="52" y="395" class="axis">0</text><text x="44" y="320" class="axis">10</text><text x="44" y="245" class="axis">20</text><text x="44" y="170" class="axis">30</text><text x="44" y="95" class="axis">40</text>
+<rect x="190" y="134" width="95" height="256" rx="4" class="food"/><rect x="300" y="179" width="95" height="211" rx="4" class="nonfood"/>
+<rect x="520" y="113" width="95" height="277" rx="4" class="food"/><rect x="630" y="160" width="95" height="230" rx="4" class="nonfood"/>
+<text x="218" y="124" class="val">34.1</text><text x="328" y="169" class="val">28.1</text><text x="548" y="103" class="val">36.9</text><text x="658" y="150" class="val">30.7</text>
+<text x="275" y="425" class="axis">2024</text><text x="605" y="425" class="axis">2025</text>
+<rect x="245" y="452" width="16" height="16" rx="2" class="food"/><text x="270" y="465" class="axis">Food, beverages &amp; tobacco</text>
+<rect x="525" y="452" width="16" height="16" rx="2" class="nonfood"/><text x="550" y="465" class="axis">Non-food</text>
+<text x="55" y="492" class="sub">Source: State Statistical Committee of the Republic of Azerbaijan</text>
+</svg>
